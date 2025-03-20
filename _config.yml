@@ -1,6 +1,6 @@
 title: "Jona Mac Intyre"
 author: "Jona Mac Intyre"
-description: "&copy; {{ site.time | date: '%Y' }}. All rights reserved. Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "&copy; 2025 All rights reserved. Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:macinj1@github.com"}
   - {title: Github, icon: github, url: "https://github.com/macinj1/"}
+  - {title: Linkedin, icon: linkedin, url: "https://github.com/macinj1/"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
   
 comments:
