@@ -1,6 +1,6 @@
 title: "Jona Mac Intyre"
 author: "Jona Mac Intyre"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "&copy; {{ site.time | date: '%Y' }}. All rights reserved. Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
