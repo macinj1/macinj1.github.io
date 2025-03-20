@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:macinj1@github.com"}
   - {title: Github, icon: github, url: "https://github.com/macinj1/"}
-  - {title: Linkedin, icon: linkedin, url: "https://github.com/macinj1/"}
+  - {title: Linkedin, icon: letter, url: "https://github.com/macinj1/"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
   
 comments:
